@@ -1,0 +1,1 @@
+<i class="<?php echo e($class); ?>"></i><?php /**PATH C:\xampp\htdocs\ESHOP\main-file\core\resources\views\components\backend\preview-icon.blade.php ENDPATH**/ ?>

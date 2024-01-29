@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ESHOP\main-file\core\resources\views\backend\pages\user\register.blade.php ENDPATH**/ ?>

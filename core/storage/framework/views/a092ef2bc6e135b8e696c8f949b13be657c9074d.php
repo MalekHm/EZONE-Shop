@@ -1,0 +1,3 @@
+<?php $__currentLoopData = $data; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $item): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+    <li data-value="<?php echo e($item->id); ?>" class="option"><?php echo e($item->name); ?></li>
+<?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?><?php /**PATH C:\xampp\htdocs\ESHOP\main-file\core\resources\views\backend\partials\nice-select-option\list.blade.php ENDPATH**/ ?>

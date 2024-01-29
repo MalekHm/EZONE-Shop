@@ -1,0 +1,1 @@
+<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div><?php /**PATH C:\xampp\htdocs\ESHOP\main-file\core\resources\views\frontend\partials\preloader\ajax_preloader.blade.php ENDPATH**/ ?>
